@@ -3,7 +3,7 @@
 
 All the code and data for capstone design course, 2023 Fall
 
-##Project description
+#Project description
 
 In this project we were given dataset with data collected from sensors near sewage treatment plant with the following values: ou(target value), NH3, TVOCs, H2S, humidity, windspeed, winddirection, pozip and atm. The goal was to implement prediction model on the dataset provided and make predictions for future points.
 
